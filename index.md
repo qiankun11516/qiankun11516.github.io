@@ -18,7 +18,7 @@ In Proceedings of the ACM SIGCOMM 2023 Conference (**SIGCOMM '23**).
 Predictable vFabric on informative data plane.
 <br>
 Shuai Wang, Kaihui Gao, **Kun Qian**, Dan Li, Rui Miao, Bo Li, Yu Zhou, Ennan Zhai, Chen Sun, Jiaqi Gao, Dai Zhang, Binzhang Fu, Frank Kelly, Dennis Cai, Hongqiang Harry Liu, and Ming Zhang.
-<br>  
+<br>
 In Proceedings of the ACM SIGCOMM 2022 Conference (**SIGCOMM '22**).
 
 From luna to solar: the evolutions of the compute-to-storage networks in Alibaba cloud.
@@ -35,7 +35,7 @@ Wenxue Cheng, **Kun Qian**, Wanchun Jiang, Tong Zhang and Fengyuan Ren.
 
 Gentle flow control: avoiding deadlock in lossless networks.
 <br>
-**Kun Qian**, Wenxue Cheng, Tong Zhang, and Fengyuan Ren.  
+**Kun Qian**, Wenxue Cheng, Tong Zhang, and Fengyuan Ren.
 <br>
 In Proceedings of the ACM Special Interest Group on Data Communication (**SIGCOMM '19**).
 
@@ -53,7 +53,7 @@ In 2017 IEEE Real-Time Systems Symposium (**RTSS '17**).
 
 XpressEth: Concise and efficient converged real-time Ethernet.
 <br>
-**Kun Qian**, Fengyuan Ren, Danfeng Shan, Wenxue Cheng and Bo Wang.  
+**Kun Qian**, Fengyuan Ren, Danfeng Shan, Wenxue Cheng and Bo Wang.
 <br>
 2017 IEEE/ACM 25th International Symposium on Quality of Service (**IWQoS '17**).
 
