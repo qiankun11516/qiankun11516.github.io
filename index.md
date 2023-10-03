@@ -9,7 +9,7 @@ I received my Ph.D. degree from Tsinghua University in 2020, under the guidance 
 
 # Selected Projects
 
-## High performance AI training netowrk
+## High performance AI training network
 
 
 
