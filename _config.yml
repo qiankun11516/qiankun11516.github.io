@@ -1,3 +1,8 @@
+# Set the text alignment in posts / pages.
+text_align:
+  # Available values: start | end | left | right | center | justify | justify-all | match-parent
+  desktop: justify
+  mobile: justify
 title: Kun Qian (钱坤)
 logo: /assets/img/photo.jpg
 description: Research Scientist <br> Network Research at Alibaba Cloud.
