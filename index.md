@@ -11,7 +11,11 @@ I received my Ph.D. degree from Tsinghua University in 2020, under the guidance 
 
 ## High performance AI training netowrk
 
+
+
 ## High performance storage netowrk
+
+[Introductory Video](https://www.bilibili.com/video/BV15R4y187g4/).
 
 ## Global video conferencing system
 
