@@ -12,6 +12,8 @@ I received my Ph.D. degree from Tsinghua University in 2020, under the guidance 
 ## High performance AI training network
 
 I am working for designing high performance and high stability network solutions for cloud AI training clusters (灵骏), including network architecture, traffic scheduler, collective communication library, RDMA, monitoring & diagnosis.
+Our brand-new AI training network architecture (HPN) is large-scale deployed in production and introduces great improvement on both the stability and performance of LLM training.
+The global network resource scheduler (Crux) maximizes GPU computation utilization by mitigating the communication contention among different training jobs, which is in the deployment procedure in production.
 
 ## High performance storage netowrk
 
