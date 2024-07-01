@@ -36,21 +36,21 @@ These contributions are published in **SIGCOMM '23**.
 # Selected Publications
 
 Alibaba HPN: A Data Center Network for Large Language Model Training.
-[paper](./pdf/sigcomm24-HPN.pdf)
+\[[paper](./pdf/sigcomm24-HPN.pdf)\]
 <br>
 **Kun Qian**, Yongqing Xi, Jiamin Cao, Jiaqi Gao, Yichi Xu, Yu Guan, Binzhang Fu, Xuemei Shi Fangbo Zhu, Rui Miao, Chao Wang, Peng Wang, Pengcheng Zhang, Xianlong Zeng Eddie Ruan, Zhiping Yao, Ennan Zhai, Dennis Cai.
 <br>
 In Proceedings of the ACM SIGCOMM 2024 Conference (**SIGCOMM '24**).
 
 Crux: GPU-Efficient Communication Scheduling for Deep Learning Training.
-[paper](./pdf/sigcomm24-Crux.pdf)
+\[[paper](./pdf/sigcomm24-Crux.pdf)\]
 <br>
 Jiamin Cao, Yu Guan, **Kun Qian**, Jiaqi Gao, Wencong Xiao, Jianbo Dong, Binzhang Fu, Dennis Cai, Ennan Zhai.
 <br>
 In Proceedings of the ACM SIGCOMM 2024 Conference (**SIGCOMM '24**).
 
 Burstable Cloud Block Storage with Data Processing Units.
-[paper](./pdf/osdi24-CBS.pdf)
+\[[paper](./pdf/osdi24-CBS.pdf)\]
 <br>
 Junyi Shu, **Kun Qian**, Ennan Zhai, Xuanzhe Liu, Xin Jin.
 <br>
