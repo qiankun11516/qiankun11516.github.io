@@ -42,20 +42,6 @@ Xizheng Wang, Qingxu Li, Yichi Xu, Gang Lu, Dan Li, Li Chen, Heyang Zhou, Linkan
 <br>
 USENIX Symposium on Networked Systems Design and Implementation (**NSDI '25**).
 
-SimAI: Unifying Architecture Design and Performance Tunning for Large-Scale Large Language Model Training with Scalability and Precision
-\[Upcomming Soon]
-<br>
-Xizheng Wang, Qingxu Li, Yichi Xu, Gang Lu, Dan Li, Li Chen, Heyang Zhou, Linkang Zheng, Sen Zhang, Yikai Zhu, Yang Liu, Pengcheng Zhang, **Kun Qian**, Kunling He, Jiaqi Gao, Ennan Zhai, Dennis Cai, Binzhang Fu.
-<br>
-USENIX Symposium on Networked Systems Design and Implementation (**NSDI '25**).
-
-SimAI: Unifying Architecture Design and Performance Tunning for Large-Scale Large Language Model Training with Scalability and Precision
-\[Upcomming Soon]
-<br>
-Xizheng Wang, Qingxu Li, Yichi Xu, Gang Lu, Dan Li, Li Chen, Heyang Zhou, Linkang Zheng, Sen Zhang, Yikai Zhu, Yang Liu, Pengcheng Zhang, **Kun Qian**, Kunling He, Jiaqi Gao, Ennan Zhai, Dennis Cai, Binzhang Fu.
-<br>
-USENIX Symposium on Networked Systems Design and Implementation (**NSDI '25**).
-
 Near-Lossless Gradient Compression for Data-Parallel Distributed DNN Training.
 \[[pdf](./pdf/SmartNIC-icnp24.pdf)\]
 <br>
