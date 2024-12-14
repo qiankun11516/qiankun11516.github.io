@@ -3,6 +3,9 @@ layout: default
 ---
 
 I am a research scientist in Network Research at Alibaba Cloud, and lead the design and implementation of innovations in predicatble network (可预期网络). 
+
+I am now leading the development of network monitoring and reliability system for cloud AI training clusters in Alibaba Cloud.
+
 My research focuses on building high-performance network solutions for computing and storaging systems.
 
 I received my Ph.D. degree from Tsinghua University in 2020, under the guidance of Professor [Fengyuan Ren](https://nns.cs.tsinghua.edu.cn/personal/renfy/renfy.html).
