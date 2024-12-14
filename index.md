@@ -35,6 +35,41 @@ These contributions are published in **SIGCOMM '23**.
 
 # Selected Publications
 
+SimAI: Unifying Architecture Design and Performance Tunning for Large-Scale Large Language Model Training with Scalability and Precision
+\[Upcomming Soon]
+<br>
+Xizheng Wang, Qingxu Li, Yichi Xu, Gang Lu, Dan Li, Li Chen, Heyang Zhou, Linkang Zheng, Sen Zhang, Yikai Zhu, Yang Liu, Pengcheng Zhang, **Kun Qian**, Kunling He, Jiaqi Gao, Ennan Zhai, Dennis Cai, Binzhang Fu.
+<br>
+USENIX Symposium on Networked Systems Design and Implementation (**NSDI '25**).
+
+SimAI: Unifying Architecture Design and Performance Tunning for Large-Scale Large Language Model Training with Scalability and Precision
+\[Upcomming Soon]
+<br>
+Xizheng Wang, Qingxu Li, Yichi Xu, Gang Lu, Dan Li, Li Chen, Heyang Zhou, Linkang Zheng, Sen Zhang, Yikai Zhu, Yang Liu, Pengcheng Zhang, **Kun Qian**, Kunling He, Jiaqi Gao, Ennan Zhai, Dennis Cai, Binzhang Fu.
+<br>
+USENIX Symposium on Networked Systems Design and Implementation (**NSDI '25**).
+
+SimAI: Unifying Architecture Design and Performance Tunning for Large-Scale Large Language Model Training with Scalability and Precision
+\[Upcomming Soon]
+<br>
+Xizheng Wang, Qingxu Li, Yichi Xu, Gang Lu, Dan Li, Li Chen, Heyang Zhou, Linkang Zheng, Sen Zhang, Yikai Zhu, Yang Liu, Pengcheng Zhang, **Kun Qian**, Kunling He, Jiaqi Gao, Ennan Zhai, Dennis Cai, Binzhang Fu.
+<br>
+USENIX Symposium on Networked Systems Design and Implementation (**NSDI '25**).
+
+Near-Lossless Gradient Compression for Data-Parallel Distributed DNN Training.
+\[[pdf](./pdf/SmartNIC-icnp24.pdf)\]
+<br>
+Xue Li, Cheng Guo, **Kun Qian**, Menghao Zhang, Mengyu Yang, Mingwei Xu.
+<br>
+ACM Symposium on Cloud Computing (**SoCC '24**).
+
+Demystifying Datapath Accelerator Enhanced Off-path SmartNIC.
+\[[pdf](./pdf/SmartNIC-icnp24.pdf)\]
+<br>
+Xuzheng Chen, Jie Zhang, Ting Fu, Yifan Shen, Shu Ma, **Kun Qian**, Lingjun Zhu, Chao Shi, Yin Zhang, Ming Liu, Zeke Wang.
+<br>
+IEEE International Conference on Network Protocols (**ICNP '24**).
+
 Alibaba HPN: A Data Center Network for Large Language Model Training.
 \[[pdf](./pdf/sigcomm24-HPN.pdf)\]
 <br>
