@@ -36,8 +36,22 @@ These contributions are published in **SIGCOMM '23**.
 
 # Selected Publications
 
+Mitigating Scalability Walls of RDMA-based Container Networks
+\[[pdf](./pdf/nsdi25-ScalaCN.pdf)\]
+<br>
+Wei Liu, Kun Qian, Zhenhua Li, Feng Qian, Tianyin Xu, Yunhao Liu, Yu Guan, Shuhong Zhu, Hongfei Xu, Lanlan Xi, Chao Qin, and Ennan Zhai.
+<br>
+USENIX Symposium on Networked Systems Design and Implementation (**NSDI '25**).
+
+Evolution of Aegis: Fault Diagnosis for AI Model Training Service in Production
+\[[pdf](./pdf/nsdi25-aegis.pdf)\]
+<br>
+Jianbo Dong, **Kun Qian (Co-first author)**, Pengcheng Zhang, Zhilong Zheng, Liang Chen, Fei Feng, Yichi Xu, Yikai Zhu, Gang Lu, Xue Li, Zhihui Ren, Zhicheng Wang, Bin Luo, Peng Zhang, Yang Liu, Yanqing Chen, Yu Guan, Weicheng Wang, Chaojie Yang, Yang Zhang, Man Yuan, Hanyu Zhao, Yong Li, Zihan Zhao, Shan Li, Xianlong Zeng, Zhiping Yao, Binzhang Fu, Ennan Zhai, Wei Lin, Chao Wang, and Dennis Cai.
+<br>
+USENIX Symposium on Networked Systems Design and Implementation (**NSDI '25**).
+
 SimAI: Unifying Architecture Design and Performance Tunning for Large-Scale Large Language Model Training with Scalability and Precision
-\[Upcomming Soon]
+\[[pdf](./pdf/nsdi25-simai.pdf)\]
 <br>
 Xizheng Wang, Qingxu Li, Yichi Xu, Gang Lu, Dan Li, Li Chen, Heyang Zhou, Linkang Zheng, Sen Zhang, Yikai Zhu, Yang Liu, Pengcheng Zhang, **Kun Qian**, Kunling He, Jiaqi Gao, Ennan Zhai, Dennis Cai, Binzhang Fu.
 <br>
