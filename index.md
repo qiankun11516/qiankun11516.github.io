@@ -8,38 +8,30 @@ My research focuses on building high-performance network solutions for computing
 
 I received my Ph.D. degree from Tsinghua University in 2020, under the guidance of Professor [Fengyuan Ren](https://nns.cs.tsinghua.edu.cn/personal/renfy/renfy.html).
 
-# Selected Projects
-
-## High performance AI training network
-
-I am working for designing high performance and high stability network solutions for cloud AI training clusters (灵骏), including network architecture, traffic scheduler, collective communication library, RDMA, monitoring & diagnosis.
-Our brand-new AI training network architecture (HPN) is large-scale deployed in production and introduces great improvement on both the stability and performance of LLM training.
-The global network resource scheduler (Crux) maximizes GPU computation utilization by mitigating the communication contention among different training jobs, which is in the deployment procedure in production.
-
-## High performance storage netowrk
-
-I am working for designing high performance network solutions for cloud storage services.
-With the deep cooperation of Elastic Block Storage (EBS), we complete the great transport evolution from commodity kernel-space TCP to user-space TCP (Luna), and finally to the brand-new storage-network fusion protocol (Solar).
-From 2018 to 2022, with the large-scale deployment of Luna and Solar, the average I/O latency decreases 72% and the overall IOPS increase 3X.
-<br>
-These contributions are published in **SIGCOMM '22**.
-<br>
-[Introductory Video](https://www.bilibili.com/video/BV15R4y187g4/).
-
-## Global video conferencing system
-
-I am cooperating with Dingtalk (钉钉) to design cross-region multicast system.
-This system implements an overlay network based on hybird network resources and a multicast system with various long-distance video multicast enhancements.
-This cross-region multicast system is deployed on all main service region of Dingtalk and reduces video stall ratio and bad audio fluency by 77% and 65.2%.
-<br>
-These contributions are published in **SIGCOMM '23**.
-
 # Selected Publications
+
+Aegaeon: Effective GPU Pooling for Concurrent LLM Serving on the Market
+<br>
+Yuxing Xiang, Xue Li, **Kun Qian**, Yufan Yang, Diwen Zhu, Wenyuan Yu, Ennan Zhai, Xuanzhe Liu, Xin Jin, Jingren Zhou.
+<br>
+In Proceedings of the ACM SIGOPS Symposium on Operating Systems Principles 2025 Conference (**SOSP'25'**).
+
+SkeletonHunter: Diagnosing and Localizing Network Failures in Containerized Large Model Training
+<br>
+Wei Liu, **Kun Qian**, Zhenhua Li, Tianyin Xu, Yunhao Liu, Weicheng Wang, Yun Zhang, Jiakang Li, Shuhong Zhu, Xue Li, Hongfei Xu, Fei Feng, Ennan Zhai.
+<br>
+In Proceedings of the ACM SIGCOMM 2025 Conference (**SIGCOMM '25**).
+
+SyCCL: Exploiting Symmetry for Efficient Collective Communication Scheduling
+<br>
+Jiamin Cao, Shangfeng Shi, Jiaqi Gao, Weisen Liu, Yifan Yang, Yichi Xu, Zhilong Zheng, Yu Guan, **Kun Qian**, Ying Liu, Mingwei Xu, Tianshu Wang, Ning Wang, Jianbo Dong, Binzhang Fu, Dennis Cai, Ennan Zhai.
+<br>
+In Proceedings of the ACM SIGCOMM 2025 Conference (**SIGCOMM '25**).
 
 Mitigating Scalability Walls of RDMA-based Container Networks
 \[[pdf](./pdf/nsdi25-ScalaCN.pdf)\]
 <br>
-Wei Liu, Kun Qian, Zhenhua Li, Feng Qian, Tianyin Xu, Yunhao Liu, Yu Guan, Shuhong Zhu, Hongfei Xu, Lanlan Xi, Chao Qin, and Ennan Zhai.
+Wei Liu, **Kun Qian**, Zhenhua Li, Feng Qian, Tianyin Xu, Yunhao Liu, Yu Guan, Shuhong Zhu, Hongfei Xu, Lanlan Xi, Chao Qin, and Ennan Zhai.
 <br>
 USENIX Symposium on Networked Systems Design and Implementation (**NSDI '25**).
 
