@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a research scientist in Network Research at Alibaba Cloud, and lead the design and implementation of innovations in predicatble network (可预期网络). 
+I am a research scientist in Network Research at Alibaba Cloud, and lead the design and implementation of innovations in predictable network (可预期网络). 
 I am now leading the development of the network monitoring and diagnosis system for AI training/inference clusters.
 My research focuses on building high-performance network solutions for computing and storage systems.
 
