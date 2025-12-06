@@ -14,7 +14,7 @@ Aegaeon: Effective GPU Pooling for Concurrent LLM Serving on the Market
 <br>
 Yuxing Xiang, Xue Li, **Kun Qian**, Yufan Yang, Diwen Zhu, Wenyuan Yu, Ennan Zhai, Xuanzhe Liu, Xin Jin, Jingren Zhou.
 <br>
-In Proceedings of the ACM SIGOPS Symposium on Operating Systems Principles 2025 Conference (**SOSP'25'**).
+In Proceedings of the ACM SIGOPS Symposium on Operating Systems Principles 2025 Conference (**SOSP'25**).
 
 SkeletonHunter: Diagnosing and Localizing Network Failures in Containerized Large Model Training
 <br>
