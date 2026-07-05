@@ -10,6 +10,37 @@ I received my Ph.D. degree from Tsinghua University in 2020, under the guidance 
 
 # Selected Publications
 
+StriaTrace: Efficient Tracing and Diagnosis for Online LLM Inference
+<br>
+Haonan Wu, Yanqing Chen, **Kun Qian**, Xue Li, and Jingbo Xu, Erci Xu, Ennan Zhai and Wenyuan Yu, Guangtao Xue, Jingren Zhou.
+<br>
+USENIX Symposium on Operating Systems Design and Implementation (**OSDI '26**).
+
+Amoeba: Runtime Tensor Parallel Transformation for LLM Inference Services
+<br>
+Haoyu Chen, Xue Li, **Kun Qian (corresponding author)**, Yu Guan2, Jin Zhao, Xin Wang.
+<br>
+Design Automation Conference (**DAC '26**).
+
+EROICA: Online Performance Troubleshooting for Large-scale Model Training
+<br>
+Yu Guan, Zhiyu Yin, Haoyu Chen, Sheng Cheng, Chaojie Yang, and **Kun Qian**, Tianyin Xu, Pengcheng Zhang, Yang Zhang, Hanyu Zhao, Yong Li, Dennis Cai, and Ennan Zhai.
+<br>
+USENIX Symposium on Networked Systems Design and Implementation (**NSDI '26**).
+
+ServeGen: Workload Characterization and Generation of Large Language Model Serving in Production
+<br>
+Yuxing Xiang, Xue Li and **Kun Qian**, Yan Zhang Wenyuan Yu and Ennan Zhai Xin Jin Jingren Zhou.
+<br>
+USENIX Symposium on Networked Systems Design and Implementation (**NSDI '26**).
+
+
+Come Hell or Still Water: Alleviating Tail Latency in Cloud Block Store
+<br>
+Chaolei Hu, **Kun Qian**, Erci Xu, Yifan Shen, Haoran Zhang, Xue Li, Yuesheng Gu, and Lingjun Zhu, Fengyuan Ren, Ennan Zhai。
+<br>
+USENIX Symposium on Networked Systems Design and Implementation (**NSDI '26**).
+
 Aegaeon: Effective GPU Pooling for Concurrent LLM Serving on the Market
 <br>
 Yuxing Xiang, Xue Li, **Kun Qian**, Yufan Yang, Diwen Zhu, Wenyuan Yu, Ennan Zhai, Xuanzhe Liu, Xin Jin, Jingren Zhou.
