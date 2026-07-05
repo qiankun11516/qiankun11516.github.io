@@ -17,18 +17,21 @@ Haonan Wu, Yanqing Chen, **Kun Qian**, Xue Li, and Jingbo Xu, Erci Xu, Ennan Zha
 USENIX Symposium on Operating Systems Design and Implementation (**OSDI '26**).
 
 Amoeba: Runtime Tensor Parallel Transformation for LLM Inference Services
+\[[pdf](./pdf/dac_Amoeba.pdf)\]
 <br>
 Haoyu Chen, Xue Li, **Kun Qian (corresponding author)**, Yu Guan2, Jin Zhao, Xin Wang.
 <br>
 Design Automation Conference (**DAC '26**).
 
 EROICA: Online Performance Troubleshooting for Large-scale Model Training
+\[[pdf](./pdf/nsdi26-Eroica.pdf)\]
 <br>
 Yu Guan, Zhiyu Yin, Haoyu Chen, Sheng Cheng, Chaojie Yang, and **Kun Qian**, Tianyin Xu, Pengcheng Zhang, Yang Zhang, Hanyu Zhao, Yong Li, Dennis Cai, and Ennan Zhai.
 <br>
 USENIX Symposium on Networked Systems Design and Implementation (**NSDI '26**).
 
 ServeGen: Workload Characterization and Generation of Large Language Model Serving in Production
+\[[pdf](./pdf/nsdi26-Servegen.pdf)\]
 <br>
 Yuxing Xiang, Xue Li and **Kun Qian**, Yan Zhang Wenyuan Yu and Ennan Zhai Xin Jin Jingren Zhou.
 <br>
@@ -36,12 +39,14 @@ USENIX Symposium on Networked Systems Design and Implementation (**NSDI '26**).
 
 
 Come Hell or Still Water: Alleviating Tail Latency in Cloud Block Store
+\[[pdf](./pdf/nsdi26-Come.pdf)\]
 <br>
 Chaolei Hu, **Kun Qian**, Erci Xu, Yifan Shen, Haoran Zhang, Xue Li, Yuesheng Gu, and Lingjun Zhu, Fengyuan Ren, Ennan Zhai。
 <br>
 USENIX Symposium on Networked Systems Design and Implementation (**NSDI '26**).
 
 Aegaeon: Effective GPU Pooling for Concurrent LLM Serving on the Market
+\[[pdf](./pdf/sosp25-aegaeon.pdf)\]
 <br>
 Yuxing Xiang, Xue Li, **Kun Qian**, Yufan Yang, Diwen Zhu, Wenyuan Yu, Ennan Zhai, Xuanzhe Liu, Xin Jin, Jingren Zhou.
 <br>
