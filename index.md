@@ -4,7 +4,7 @@ layout: default
 
 I am a research scientist in Network Research at Alibaba Cloud.
 
-I am now leading the development of the network monitoring and diagnosis system for AI training/inference clusters, focusing on infrastructure monitoring, automated self-healing, and cross-layer root cause analysis across hosts, networks, and  frameworks.
+I am now leading the development of the network monitoring and diagnosis system for AI training/inference clusters in Alibaba Cloud, focusing on infrastructure monitoring, automated repairing, and cross-layer root cause analysis across hosts, networks, and  frameworks.
 
 My recent research focuses on building stable, scalable and high-performance solutions for training/inference systems.
 
@@ -17,13 +17,6 @@ StriaTrace: Efficient Tracing and Diagnosis for Online LLM Inference
 Haonan Wu, Yanqing Chen, **Kun Qian**, Xue Li, and Jingbo Xu, Erci Xu, Ennan Zhai and Wenyuan Yu, Guangtao Xue, Jingren Zhou.
 <br>
 USENIX Symposium on Operating Systems Design and Implementation (**OSDI '26**).
-
-Amoeba: Runtime Tensor Parallel Transformation for LLM Inference Services
-\[[pdf](./pdf/dac_Amoeba.pdf)\]
-<br>
-Haoyu Chen, Xue Li, **Kun Qian (corresponding author)**, Yu Guan2, Jin Zhao, Xin Wang.
-<br>
-Design Automation Conference (**DAC '26**).
 
 EROICA: Online Performance Troubleshooting for Large-scale Model Training
 \[[pdf](./pdf/nsdi26-Eroica.pdf)\]
@@ -46,6 +39,13 @@ Come Hell or Still Water: Alleviating Tail Latency in Cloud Block Store
 Chaolei Hu, **Kun Qian**, Erci Xu, Yifan Shen, Haoran Zhang, Xue Li, Yuesheng Gu, and Lingjun Zhu, Fengyuan Ren, Ennan Zhai。
 <br>
 USENIX Symposium on Networked Systems Design and Implementation (**NSDI '26**).
+
+Amoeba: Runtime Tensor Parallel Transformation for LLM Inference Services
+\[[pdf](./pdf/dac_Amoeba.pdf)\]
+<br>
+Haoyu Chen, Xue Li, **Kun Qian (corresponding author)**, Yu Guan2, Jin Zhao, Xin Wang.
+<br>
+Design Automation Conference (**DAC '26**).
 
 Aegaeon: Effective GPU Pooling for Concurrent LLM Serving on the Market
 \[[pdf](./pdf/sosp25-aegaeon.pdf)\]
